@@ -1,0 +1,15 @@
+R Interface for reading and writing data from Hadoop
+
+* Examples
+
+- Reading HDFS data
+
+> dummy.data <- read.hdfs("./dummy")
+
+- Writing HDFS data
+
+> write.hdfs(iris,"./tmp/iris")
+
+- Reading the execution result of HiveQL
+
+> hive.data <- read.hdfs("select * from table_name")

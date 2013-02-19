@@ -1,0 +1,9 @@
+Package: rHadoopClient
+Type: Package
+Title: hadoop client interface for R
+Version: 0.1
+Date: 2013-02-18
+Author: Yohei Sato
+Maintainer: Yohei Sato <yokkuns@tkul.jp>
+Description: To run the hadoop and hive command from R
+License: BSD
