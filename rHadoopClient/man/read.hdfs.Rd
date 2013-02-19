@@ -1,10 +1,10 @@
 \name{read.hdfs}
 \alias{read.hdfs}
 \title{
-Read data by HDFS
+Reading HDFS data
 }
 \description{
-Read data by HDFS.
+Reading HDFS data
 }
 \usage{
 read.hdfs(hdfs.path, hadoop.cmd = "hadoop")

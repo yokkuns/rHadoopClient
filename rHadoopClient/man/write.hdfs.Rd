@@ -1,10 +1,10 @@
 \name{write.hdfs}
 \alias{write.hdfs}
 \title{
-write data to hdfs
+Writing HDFS data
 }
 \description{
-write data to hdfs
+Writing HDFS data
 }
 \usage{
 write.hdfs(data, hdfs.path, hadoop.cmd = "hadoop", sep = "\t")

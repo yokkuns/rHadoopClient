@@ -1,10 +1,10 @@
 \name{read.hive}
 \alias{read.hive}
 \title{
-Read data by Hive Result
+Reading the execution result of HiveQL
 }
 \description{
-Reading the execution result of hive
+Reading the execution result of HiveQL
 }
 \usage{
 read.hive(sql, hive.cmd = "hive")
